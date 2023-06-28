@@ -1,0 +1,26 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card {
+    padding: 20px;
+    position: relative;
+    background-color: #8C92AC;
+    border: 5px double #222222;
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    margin: auto;
+}
+
+.EsawAdhana {
+    height: 250px;
+    border: 2px solid #222222;
+    border-radius: 10px;
+}
+
+.info {
+    margin: auto;
+    text-align: center;
+    font-size: 22px;
+}
